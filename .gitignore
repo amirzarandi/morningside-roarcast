@@ -1,3 +1,6 @@
 .venv
 data
 .DS_Store
+notebooks/*/__pycache__
+notebooks/runs
+notebooks/models/save_models
